@@ -1,0 +1,10 @@
+{
+    "1": {
+        "username": "test",
+        "password": "scrypt:32768:8:1$qVcl9aaw7u7QxfRI$ec4ca0016ab19e5c7319cfa25f7d414e4840308704aea717e9390415234289a45db3344fa67a64468807bb27e7d7d0b40a9e5d57d6b86bf58f8846b5826df00c"
+    },
+    "6c321b28-2a83-44ac-b3d6-184903f7c227": {
+        "username": "1234",
+        "password": "scrypt:32768:8:1$RrKTILI2vUVVymIH$dff7c3216d5bd01a41a7c16c2541a17987856ecac558a818742a35ea4542899b95c1ed65306ec8505eb720d6ecb0bf54490dd41e66131a24c94c3859046461bd"
+    }
+}
